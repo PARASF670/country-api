@@ -1,6 +1,7 @@
 par = document.createElement('div');
 par.setAttribute("class", "container");
-raw = document.createElement('row');
+raw = document.createElement('div');
+raw.setAttribute("class", "row");
 document.body.style.backgroundColor = "lightblue";
 
 
